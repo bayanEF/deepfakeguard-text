@@ -1,0 +1,3 @@
+model,variant,n_seeds,acc,macro_f1,auc,bal_acc,human_recall,ai_recall,ai_precision
+distilbert-base-uncased,none,5,96.54 ± 0.1,96.32 ± 0.1,99.65 ± 0.07,97.07 ± 0.1,95.14 ± 0.14,99.0 ± 0.12,92.07 ± 0.23
+distilbert-base-uncased,smote_nn,5,96.59 ± 0.27,96.36 ± 0.27,99.67 ± 0.05,97.1 ± 0.23,95.21 ± 0.47,98.99 ± 0.31,92.19 ± 0.61

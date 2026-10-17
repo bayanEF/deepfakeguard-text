@@ -1,0 +1,14 @@
+# Versions were not recorded; tested on Google Colab (Tesla T4) with PyTorch 2.11.0+cu130.
+# Run `pip freeze` in your Colab session and pin the versions here if you want exact reproducibility.
+torch>=2.3
+transformers
+accelerate
+scikit-learn
+imbalanced-learn
+pandas
+numpy
+scipy
+tqdm
+matplotlib
+# optional (paraphrase pilot with METHOD='claude'):
+# anthropic

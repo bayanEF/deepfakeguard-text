@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the associated paper."
+title: "DeepFakeGuard-Text: A Lightweight Transformer Detector for AI-Generated Text and an Evaluation of Embedding-Space SMOTE"
+type: software
+license: MIT
+authors:
+  - family-names: Alfarrayeh
+    given-names: Bayan
+  - family-names: Alashqar
+    given-names: Mais
+  - family-names: Sabeha
+    given-names: Marya
+  - family-names: Abu Al-Soud
+    given-names: Farah
+  - family-names: Abu Al-Haija
+    given-names: Qasem
